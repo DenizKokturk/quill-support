@@ -58,7 +58,7 @@ a:hover {
   width: 58px;
   height: 58px;
   border-radius: 16px;
-  background: #111 url(""ppl.png") center / cover no-repeat;
+  background: transparent url("ppl.png") center / cover no-repeat;
   box-shadow: var(--shadow);
 }
 
